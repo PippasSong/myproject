@@ -22,6 +22,4 @@ function printFunction(strParameter) {
     console.log(strParameter);
 }
 
-
-
 start();
