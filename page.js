@@ -57,4 +57,6 @@ function printASCIIArt(){
 
 }
 
+// 확인 완료
+
 start();
