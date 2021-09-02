@@ -15,6 +15,7 @@ function printFunction() {
     console.log(str);
 }
 
+// pair 프로그래밍 실습 예제
 
 
 start();
